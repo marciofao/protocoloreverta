@@ -3,7 +3,7 @@
 
 [Github page (site backup) no github pages](https://marciofao.github.io/protocoloreverta/)
 
-[Instruções como instalar a extensão](https://youtu.be/aHHQEGqNpRg)
+[Instruções como instalar a extensão](https://youtu.be/BUhloOqFVp4)
 
 
 [Demonstração Prévia do aplicativo](https://youtu.be/3urmTOJvpbQ)
